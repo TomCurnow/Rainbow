@@ -5,7 +5,7 @@ html {
 
 body {
     background: #ffffff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Courier New", monospace;
     font-size: 16px;
     line-height: 1.5;
     margin: 0 auto;
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Courier New", monospace;
 }
 
 a {
@@ -29,14 +29,3 @@ samp {
     display: none;
 }
 
-#blink_text{	
-    animation-name:blink;
-    animation-duration:2s;
-    animation-timing-function:step-start;
-    animation-iteration-count:Infinite;
-}
-
-@keyframes blink{
-  0%{color:black;}
-  50%{color:white;}
-  100%{color:black;}
