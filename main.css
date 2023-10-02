@@ -14,10 +14,6 @@ body {
     padding: 2em 2em 4em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 600;
-    line-height: 1.3;
-}
 
 h1 {
     color: #ff0000
@@ -46,8 +42,6 @@ h6 {
 h7 {
     color: #0000ff
 }
-
-
 
 a {
     color: #0083e8;
