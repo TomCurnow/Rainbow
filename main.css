@@ -28,13 +28,3 @@ b, strong {
 samp {
     display: none;
 }
-
-html, body, .container {
-    height: 100%;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
