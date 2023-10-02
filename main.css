@@ -30,10 +30,11 @@ samp {
 }
 
 #blink_text{	
-  animation-name:blink;
-  animation-duration:2s;
-  animation-iteration-count:Infinite;
-  }
+    animation-name:blink;
+    animation-duration:2s;
+    animation-timing-function:step-start;
+    animation-iteration-count:Infinite;
+}
 
 @keyframes blink{
   0%{color:black;}
