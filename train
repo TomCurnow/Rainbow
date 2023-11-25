@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>rainbow</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    
+    <centre>
+        <h1>Office Break</h1>
+        <h2>Privacy Policy</h2>
+        <body>
+            <p>Office break does not collect any data.</p>
+            <p>Anything else you want to know? Email us at tomcurnowone@gmail.com.</p>
+            <p>♥</p>
+        </body>
+    </centre>
+    
+</html>
